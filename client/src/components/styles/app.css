@@ -1,0 +1,76 @@
+#submenu{
+    color: white;
+}
+#base, #route_id{
+    margin-bottom: 50px;
+}
+#search_id{
+    width: 600px;
+}
+#list_id{
+    margin: 10px;
+}
+.mycard{
+    margin: 5px;
+}
+#rimgid{
+    padding: 5px;
+}
+.mycard{
+    padding: 12px;
+}
+
+#mycardid{
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+#footer_cover{
+    background-color: #007bff;
+    color: white; 
+    padding-top: 22px;
+    padding-bottom: 22px;
+    margin-top: 32px;
+}
+
+.rlist{
+    color: white !important; 
+}
+#top_navbarid{
+    background-color: #007bff;
+    color: white !important;
+}
+#footer_text{
+    color: white; 
+}
+.rlink{
+    color: white !important; 
+}
+#navbar{
+    background-color: #007bff;
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#carousel, #basic-nav-dropdown{
+    color: #212529 !important;
+    background-color: gray;
+}
+/* #search_id{
+    width: 100%;
+} */
+#sticky{
+    background-color: rgb(248 249 250);
+}
+.footer_contact{
+    margin-bottom: 0rem !important;
+}
+#mainpage{
+    max-width: 100% !important;
+}
+#menutitle{
+    color: white !important; 
+}
+#btnadd{
+    color: white !important; 
+}
